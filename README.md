@@ -20,3 +20,6 @@
 ([项目地址](https://github.com/guoxiaochuang/spring-boot-demo/tree/master/spring-boot-demo-jpa)）（[有道笔记地址](http://note.youdao.com/noteshare?id=c575cb27b0b81abf1476c5281a641154)）
 
 - spring-boot-Swagger：SpringBoot集成Swagger构建接口文档([项目地址](https://github.com/guoxiaochuang/spring-boot-demo/tree/master/spring-boot-demo-Swagger)）（[有道笔记地址](http://note.youdao.com/noteshare?id=464581af7df03eec2742c946ff71526c)）
+
+
+- spring-boot-MyBatis：SpringBoot整合MyBatis([项目地址](https://github.com/guoxiaochuang/Study-SpringBoot/tree/master/spring-boot-demo-MyBatis)）（[有道笔记地址](http://note.youdao.com/noteshare?id=b9d0691125fb43b342e0a376fb1612bb)）
