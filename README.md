@@ -23,3 +23,6 @@
 
 
 - spring-boot-MyBatis：SpringBoot整合MyBatis([项目地址](https://github.com/guoxiaochuang/Study-SpringBoot/tree/master/spring-boot-demo-MyBatis)）（[有道笔记地址](http://note.youdao.com/noteshare?id=b9d0691125fb43b342e0a376fb1612bb)）
+
+
+- spring-boot-demo-log：SpringBoot之整合日志框架（Flf4j+logback）([项目地址](https://github.com/guoxiaochuang/Study-SpringBoot/tree/master/spring-boot-demo-log)）（[有道笔记地址](http://note.youdao.com/noteshare?id=8fa22d8fdaef505e8dc07ba596b1fe05)）
